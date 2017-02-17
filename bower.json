@@ -2,13 +2,12 @@
     "name": "rdash-angular",
     "version": "0.0.1",
     "description": "An AngularJS implementation of the responsive dashboard",
-    "homepage": "https://github.com/Ehesp/Responsive-Dashboard",
+    "homepage": "https://github.com/anilbk009/angular-gulp",
     "authors": [
-        "Elliot Hesp <elliot.hesp@gmail.com>"
+        "Anil BK <anilbk009@gmail.com>"
     ],
     "contributors": [
-        "Ricardo Pascua Jr <rdpascua@outlook.com>",
-        "Leonel Samayoa <leonel.e.samayoa@gmail.com>"
+        "Anil BK <anilbk009@gmail.com>"
     ],
     "main": "index.html",
     "license": "MIT",
