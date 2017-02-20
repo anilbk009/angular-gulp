@@ -8,6 +8,7 @@ Check out the [live example](http://rdash.github.io/)!
 
 ## Usage
 ### Requirements
+### Requirements
 * [NodeJS](http://nodejs.org/) (with [NPM](https://www.npmjs.org/))
 ### Download and install nodejs 
 * [Bower](http://bower.io) 
