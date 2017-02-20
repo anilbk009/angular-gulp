@@ -9,13 +9,13 @@ Check out the [live example](http://rdash.github.io/)!
 ## Usage
 ### Requirements
 * [NodeJS](http://nodejs.org/) (with [NPM](https://www.npmjs.org/)).
-### Download and install nodejs 
+        ### Download and install nodejs 
 * [Bower](http://bower.io) 
-### Install bower in command line
-* $ npm install -g bower (globally install the bower).
+        ### Install bower in command line
+        * $ npm install -g bower (globally install the bower).
 * [Gulp](http://gulpjs.com) 
-### Install glup in command line  
-* $ npm install --global gulp-cli (globally install the gulp).
+       ### Install glup in command line  
+       * $ npm install --global gulp-cli (globally install the gulp).
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/anilbk009/angular-gulp.git`
